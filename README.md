@@ -10,9 +10,6 @@ The goal of this project is to analyze customer behavior and predict churn rates
 - **Source**: [Telco Customer Churn Dataset on Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Description**: Contains data about customer demographics, services, and churn status.
 
-### Project Structure
-- `notebooks/`: Contains the Jupyter notebook used for analysis.
-- `images/`: Visualizations and results.
 
 ### Key Steps
 1. Data preprocessing and exploratory analysis
